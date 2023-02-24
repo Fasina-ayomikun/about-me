@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fasina Ayomikun
 - 👀 I’m a Frontend developer 
-- I'm skilled in HTML,CSS and Vanilla JS
-- 🌱 I’m currently learning React
+- I'm skilled in HTML,CSS, Vanilla JS and React
+- 🌱 I’m currently learning Nodejs
 
 
 <!---
