@@ -1,8 +1,21 @@
-- 👋 Hi, I’m Fasina Ayomikun
-- 👀 I’m a Frontend developer 
-- I'm skilled in HTML,CSS, Vanilla JS and React
-- 🌱 I’m currently learning Nodejs
+# Hello 👋👋
 
+      Hi, my name is Fasina Ayomikun, I am web developer
+   
+## My Stack
+   I currently working towards being a MERN Stack developer and I am skilled in the following:
+   * HTML
+   * CSS
+   * Javascript
+   * React
+   * Node
+   * Express
+   * Mongo DB
+   * Mongoose
+   * Tailwind Css
+   * Material UI
+   * Firebase
+ 
 
 <!---
 Fasina-ayomikun/Fasina-ayomikun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
