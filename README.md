@@ -1,9 +1,9 @@
 # Hello 👋👋
 
-      Hi, my name is Fasina Ayomikun, I am web developer
+      Hi, my name is Fasina Ayomikun, I am Mern Stack developer
    
 ## My Stack
-   I currently working towards being a MERN Stack developer and I am skilled in the following:
+  My skills are as the following:
    * HTML
    * CSS
    * Javascript
