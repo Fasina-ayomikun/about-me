@@ -3,7 +3,7 @@
       Hi, my name is Fasina Ayomikun, I am Mern Stack developer
    
 ## My Stack
-  My skills are as the following:
+  My skills are as follows:
    * HTML
    * CSS
    * Javascript
